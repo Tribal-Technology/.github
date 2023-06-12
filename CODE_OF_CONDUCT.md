@@ -72,4 +72,4 @@ This Code of Conduct applies to all Tribal Tech community spaces, including onli
 
 We are committed to providing an inclusive and welcoming environment for all participants in the Tribal Tech community. By following this Code of Conduct, we can create a space where everyone feels respected, valued, and safe. Together, let's build a community that empowers and uplifts black African professionals in the tech industry.
 
-If you have any questions or concerns regarding this Code of Conduct, please contact [bynarikompleks@gmail.com].
+If you have any questions or concerns regarding this Code of Conduct, please contact bynarikompleks@gmail.com
