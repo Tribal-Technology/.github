@@ -66,11 +66,11 @@ Feel free to reach out to us through any of these channels if you have questions
 
 ## Contributing
 
-We appreciate and value contributions from the community. If you're interested in contributing to Tribal Tech, please take a look at our [Contribution Guidelines](https://github.com/TribalTech/.github/main/CONTRIBUTING.md) for more information on how to get started.
+We appreciate and value contributions from the community. If you're interested in contributing to Tribal Tech, please take a look at our [Contribution Guidelines](https://github.com/Tribal-Technology/.github/blob/main/CONTRIBUTING.md) for more information on how to get started.
 
 Before contributing, we encourage you to discuss your ideas or proposed changes with the project maintainers or the community through the relevant issue tracker or our communication channels.
 
-Please note that all contributions to Tribal Tech projects are subject to our [Code of Conduct](https://github.com/TribalTech/.github/main/CODE_OF_CONDUCT.md). We expect all community members to adhere to these guidelines and create a welcoming environment for everyone.
+Please note that all contributions to Tribal Tech projects are subject to our [Code of Conduct](https://github.com/Tribal-Technology/.github/blob/main/CODE_OF_CONDUCT.md). We expect all community members to adhere to these guidelines and create a welcoming environment for everyone.
 
 ## License
 
