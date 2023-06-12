@@ -88,6 +88,4 @@ When reporting issues, please follow these guidelines:
 
 Thank you for your interest in contributing to Tribal Tech! Your contributions play a crucial role in making our community vibrant and successful. Remember to communicate with the project maintainers and the community throughout the process, and be open to feedback and collaboration.
 
-We look forward to your contributions and appreciate your dedication to supporting black African professionals in the tech industry. Together, we can create an inclusive and empowering environment for all. Happy
-
- contributing!
+We look forward to your contributions and appreciate your dedication to supporting black African professionals in the tech industry. Together, we can create an inclusive and empowering environment for all. Happy contributing!
